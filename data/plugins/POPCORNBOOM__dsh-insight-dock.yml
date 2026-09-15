@@ -1,0 +1,6 @@
+url: https://github.com/POPCORNBOOM/dsh-insight-dock
+name: POPCORNBOOM/dsh-insight-dock
+category: ui
+description:
+  en: 'Lets the agent park a short side observation above the composer while it works, and reads the session log back from the recorded anchor when you ask to hear it out.'
+  zh: '让 agent 在专注工作时把简短的侧面发现寄存在输入框上方；你想听时，它从纸条锚定的会话日志位置把当时的现场读回来。'
